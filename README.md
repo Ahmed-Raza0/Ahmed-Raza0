@@ -17,7 +17,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,github,vscode,nodejs,git)](https://skillicons.dev)
 
-<h2>⚡ Skills</h2>
+<h2 align="center">⚡ Skills</h2>
 
 | # | # |
 | :------------ | :--------------- |
