@@ -19,10 +19,10 @@
 
 <h2>⚡ Skills</h2>
 
- | # | # |
-| :------------ | :--------------- | 
-| <img src="https://img.shields.io/badge/-HTML-0D1117?style=flat-square&logo=html&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-CSS-0D1117?style=flat-square&logo=Css&logoColor=F0DB4F">
-| <img src="https://img.shields.io/badge/-Javascript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F">
+| # | # | # | # |
+| :------------ | :--------------- |
+| <img src="https://img.shields.io/badge/-HTML/CSS/Javascript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Typescript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"> 
+
 
 ![Ahmed-Raza0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=dark)
 
