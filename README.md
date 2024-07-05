@@ -5,11 +5,11 @@
 - 📫 How to reach me: Ahed80174@gmail.com
   
 ### Connect with me:
-<div id="badges">
+<div align="center" id="badges">
   <a href="https://github.com/Ahmed-Raza0">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="linkedin.com/in/ahmed-raza-6918b72b8">
+  <a href="https://linkedin.com/in/ahmed-raza-6918b72b8">
     <img src="https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=black" alt="linkedIn Badge"/>
   </a>
 </div>
