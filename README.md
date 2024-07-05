@@ -9,13 +9,13 @@
   <a href="https://github.com/Ahmed-Raza">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="linkedin.com/in/ahmed-raza-6918b72b8>
+  <a href="linkedin.com/in/ahmed-raza-6918b72b8">
     <img src="https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=black" alt="linkedIn Badge"/>
   </a>
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=Node.js,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
 ![Ahmed-Raza0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=dark)
 
