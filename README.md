@@ -15,8 +15,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=![Uploading image.png…]()
-,css3,js,ts,py,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=htlm,css3,js,ts,py,github,git)](https://skillicons.dev)
 
 ![Ahmed-Raza0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=dark)
 
