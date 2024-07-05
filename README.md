@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,github,vscode,nodejs,git)](https://skillicons.dev)
 
 <h2 align="center">⚡ Skills</h2>
-<div>
+<div align="center">
 | # | # |
 | :------------ | :--------------- |
 | <img src="https://img.shields.io/badge/-HTML/CSS/Javascript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Typescript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F">
