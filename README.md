@@ -21,7 +21,7 @@
 
 | # | # |
 | :------------ | :--------------- |
-| <img src="https://img.shields.io/badge/-HTML/CSS/Javascript-0D1117?style=flat-square&logo=html&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Typescript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F">
+| <img src="https://img.shields.io/badge/-HTML/CSS/Javascript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Typescript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F">
 | <img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=F0DB4F"> 
 
 
