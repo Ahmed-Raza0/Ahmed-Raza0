@@ -15,15 +15,14 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,github,vscode,nodejs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,github,nextjs,vscode,nodejs,git)](https://skillicons.dev)
 
 <h2 align="center">⚡ Skills</h2>
 
 | # | # |
 | :------------ | :--------------- |
 | <img src="https://img.shields.io/badge/-HTML/CSS/Javascript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Typescript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F">
-| <img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=F0DB4F"> 
-
+| <img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=F0DB4F">
 
 ![Ahmed-Raza0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=dark)
 
