@@ -1,6 +1,6 @@
   <h1 align="center">Hi 👋, I'm Ahmed Raza</h1>
 
-- 🔭 I’m currently workin on Next js
+- 🔭 I’m currently working on Next js
 - 🌱 I’m currently learning Web 3.0,AI & Metaverse 
 - 📫 How to reach me: Ahed80174@gmail.com
   
