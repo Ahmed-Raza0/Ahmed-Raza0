@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Web 3.0,AI & Metaverse 
-- 📫 How to reach me: <link href="Ahed80174@gmail.com">Email</link>
+- 📫 How to reach me: <a href="Ahed80174@gmail.com">Email</a>
   
 ### Connect with me:
 <div align="center" id="badges">
