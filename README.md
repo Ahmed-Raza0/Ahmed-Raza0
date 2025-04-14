@@ -15,7 +15,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,github,nextjs,react,tailwind,figma,vscode,nodejs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,github,nextjs,react,tailwind,figma,vscode,nodejs,git)]
 
 <h2 align="center">⚡ Skills</h2>
 
@@ -31,6 +31,5 @@
 
 <br>
 ⭐️ From<a href="https://github.com/Ahmed-Raza0">
-  <a href="(https://skillicons.dev/icons?i=html,css,js,ts,py,github,nextjs,react,tailwind,figma,vscode,nodejs,git)](https://skillicons.dev)"></a>
      Ahmed Raza
   </a>
