@@ -31,5 +31,6 @@
 
 <br>
 ⭐️ From<a href="https://github.com/Ahmed-Raza0">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github logo"/>Ahmed Raza
+  <a href="(https://skillicons.dev/icons?i=html,css,js,ts,py,github,nextjs,react,tailwind,figma,vscode,nodejs,git)](https://skillicons.dev)"></a>
+     Ahmed Raza
   </a>
