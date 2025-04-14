@@ -31,5 +31,5 @@
 
 <br>
 ⭐️ From<a href="https://github.com/Ahmed-Raza0">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>Ahmed Raza
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github logo"/>Ahmed Raza
   </a>
