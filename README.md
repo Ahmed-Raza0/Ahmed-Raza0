@@ -32,22 +32,11 @@
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,nodejs,tailwind,git,github,figma,vscode,vercel,redux,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,nodejs,tailwind,git,github,figma,vscode,vercel,redux" />
 </p>
 
 ---
-
-## 💼 Projects Showcase
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Portfolio Website** | Personal website with animations and responsive design | React, TailwindCSS |
-| **Web3 Wallet** | Simple blockchain wallet using MetaMask integration | Web3.js, React |
-| **AI Chatbot** | A Python-based chatbot powered by NLP | Python, NLTK |
-| *(Add more...)* | | |
-
----
-
+ 
 ## 📊 GitHub Stats
 
 <p align="center">
