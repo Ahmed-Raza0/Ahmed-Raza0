@@ -2,13 +2,21 @@
 
 <p align="center">
   🔭 Currently working on <strong>Python</strong> <br>
-  🌱 Learning <strong>Web 3.0, AI & Metaverse</strong> <br>
+  🌱 Exploring <strong>Web 3.0, AI & Metaverse</strong> <br>
   📫 Reach me via: <a href="mailto:ahed80174@gmail.com">📧 Email</a>
 </p>
 
 ---
 
-### 🌐 Connect with me
+## 🧠 About Me
+
+- 💡 Passionate developer focused on building modern web apps and smart solutions
+- 👨‍💻 Constantly learning & pushing boundaries in blockchain and AI
+- 🧩 Love solving problems and contributing to open-source
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center" id="badges">
   <a href="https://github.com/Ahmed-Raza0" target="_blank">
@@ -21,30 +29,26 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,github,nextjs,react,tailwind,figma,vscode,nodejs,git" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,nodejs,tailwind,git,github,figma,vscode,vercel,redux,docker" />
 </p>
 
 ---
 
-<h2 align="center">⚡ Technical Skills</h2>
+## 💼 Projects Showcase
 
-<table align="center">
-  <tr>
-    <td><img src="https://img.shields.io/badge/-HTML/CSS/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></td>
-    <td><img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B"></td>
-    <td><img src="https://img.shields.io/badge/-React/Next.js-0D1117?style=flat-square&logo=react&logoColor=61DAFB"></td>
-  </tr>
-</table>
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Portfolio Website** | Personal website with animations and responsive design | React, TailwindCSS |
+| **Web3 Wallet** | Simple blockchain wallet using MetaMask integration | Web3.js, React |
+| **AI Chatbot** | A Python-based chatbot powered by NLP | Python, NLTK |
+| *(Add more...)* | | |
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=dark" alt="Ahmed's GitHub Stats" />
@@ -53,6 +57,46 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed-Raza0&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Raza0&theme=algolia&row=1&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ahmed-Raza0&theme=react-dark" alt="Activity Graph" />
+</p>
+
+---
+
+## ✍️ Blog & Articles *(optional)*
+
+- [My Web3 Journey](#) *(link to blog if available)*
+- [Building AI Chatbots with Python](#)
+
+---
+
+## 💬 Let's Collaborate
+
+I'm open to:
+- 🤝 Collaborations on Open Source
+- 🧠 Hackathons & Hack Nights
+- 🛠️ Freelance Projects
 
 ---
 
