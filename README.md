@@ -1,31 +1,29 @@
 <h1 align="center">Hi 👋, I'm Ahmed Raza</h1>
+<h3 align="center">🚀 Passionate Developer | Python Enthusiast | Exploring AI, Web3 & Metaverse</h3>
 
 <p align="center">
-  🔭 Currently working on <strong>Python</strong> <br>
-  🌱 Exploring <strong>Web 3.0, AI & Metaverse</strong> <br>
-  📫 Reach me via: <a href="mailto:ahed80174@gmail.com">📧 Email</a>
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Raza0&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 💡 Passionate developer focused on building modern web apps and smart solutions  
-- 👨‍💻 Constantly learning & pushing boundaries in blockchain and AI  
-- 🧩 Love solving problems and contributing to open-source  
+- 💡 I'm a **full-stack developer** focused on building innovative, scalable, and efficient web applications  
+- 🔍 Currently learning & experimenting with **AI, Blockchain, and Web 3.0**  
+- 👨‍💻 Love contributing to **open-source projects** and collaborative dev communities  
+- ⚙️ Skilled in both **front-end** and **back-end** development  
+- 🧩 Problem-solver with a deep interest in building smart digital solutions
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 Featured Projects
 
-<p align="center" id="badges">
-  <a href="https://github.com/Ahmed-Raza0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/ahmed-raza-6918b72b8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| **Web3 NFT Marketplace** | A decentralized marketplace to mint, buy, and sell NFTs | Solidity, React, IPFS | [View Project](#) |
+| **AI Chatbot Assistant** | An intelligent chatbot built using NLP libraries in Python | Python, Flask, NLP | [View Project](#) |
+| **DevConnect** | A social network for developers | Next.js, Firebase, TailwindCSS | [View Project](#) |
 
 ---
 
@@ -36,8 +34,17 @@
 </p>
 
 ---
- 
-## 📊 GitHub Stats
+
+## 📜 Certifications & Achievements *(Optional)*
+
+- 🥇 Completed **Meta Front-End Developer** Certificate  
+- 🧠 Certified in **Python for Data Science** – IBM  
+- 🏆 2x Winner at Local Hackathons  
+- 🌐 Published blog on "AI + Blockchain Synergy"
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=dark" alt="Ahmed's GitHub Stats" />
@@ -65,7 +72,7 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📊 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Raza0&theme=react-dark" alt="GitHub Activity Graph" />
@@ -73,19 +80,35 @@
 
 ---
 
-## ✍️ Blog & Articles *(Optional)*
+## ✍️ Blog & Articles
 
-- [My Web3 Journey](#) *(Coming soon)*  
-- [Building AI Chatbots with Python](#)
+- 🔜 [My Web3 Journey](#)
+- ✅ [Building AI Chatbots with Python](#)
 
 ---
 
-## 💬 Let's Collaborate
+## 🌐 Connect with Me
+
+<p align="center" id="badges">
+  <a href="https://github.com/Ahmed-Raza0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/ahmed-raza-6918b72b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:ahed80174@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Let's Collaborate
 
 I'm open to:
-- 🤝 Collaborations on Open Source
-- 🧠 Hackathons & Hack Nights
-- 🛠️ Freelance Projects
+- 🚀 Collaborations on open-source & innovative products  
+- 💼 Freelance & remote development projects  
+- 🧠 Hackathons, code reviews, and brainstorming sessions
 
 ---
 
