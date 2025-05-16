@@ -17,15 +17,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **Web3 NFT Marketplace** | A decentralized marketplace to mint, buy, and sell NFTs | Solidity, React, IPFS | [View Project](#) |
-| **AI Chatbot Assistant** | An intelligent chatbot built using NLP libraries in Python | Python, Flask, NLP | [View Project](#) |
-| **DevConnect** | A social network for developers | Next.js, Firebase, TailwindCSS | [View Project](#) |
-
----
+ 
 
 ## 🧰 Tech Stack & Tools
 
@@ -34,15 +26,8 @@
 </p>
 
 ---
-
-## 📜 Certifications & Achievements *(Optional)*
-
-- 🥇 Completed **Meta Front-End Developer** Certificate  
-- 🧠 Certified in **Python for Data Science** – IBM  
-- 🏆 2x Winner at Local Hackathons  
-- 🌐 Published blog on "AI + Blockchain Synergy"
-
----
+ 
+ 
 
 ## 📈 GitHub Stats
 
@@ -79,13 +64,7 @@
 </p>
 
 ---
-
-## ✍️ Blog & Articles
-
-- 🔜 [My Web3 Journey](#)
-- ✅ [Building AI Chatbots with Python](#)
-
----
+ 
 
 ## 🌐 Connect with Me
 
