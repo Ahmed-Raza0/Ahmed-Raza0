@@ -10,9 +10,9 @@
 
 ## 🧠 About Me
 
-- 💡 Passionate developer focused on building modern web apps and smart solutions
-- 👨‍💻 Constantly learning & pushing boundaries in blockchain and AI
-- 🧩 Love solving problems and contributing to open-source
+- 💡 Passionate developer focused on building modern web apps and smart solutions  
+- 👨‍💻 Constantly learning & pushing boundaries in blockchain and AI  
+- 🧩 Love solving problems and contributing to open-source  
 
 ---
 
@@ -79,14 +79,14 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ahmed-Raza0&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Raza0&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## ✍️ Blog & Articles *(optional)*
+## ✍️ Blog & Articles *(Optional)*
 
-- [My Web3 Journey](#) *(link to blog if available)*
+- [My Web3 Journey](#) *(Coming soon)*  
 - [Building AI Chatbots with Python](#)
 
 ---
