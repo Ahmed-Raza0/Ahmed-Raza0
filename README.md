@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Raza</h1>
-<h3 align="center">🚀 Passionate Developer | Python Enthusiast | Exploring AI, Web3 & Metaverse</h3>
+<h2 align="center">🚀 Passionate Developer | Python Enthusiast | Exploring AI, Web3 & Metaverse</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmed-Raza0&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
