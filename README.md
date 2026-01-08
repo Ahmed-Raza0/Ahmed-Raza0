@@ -1,106 +1,87 @@
 <div align="center">
-  <h1>👋 Hi, I'm Ahmed Raza</h1>
-  <h3>🚀 Passionate Developer | Python Enthusiast | AI & Web3 Explorer</h3>
+  <h1>👋 Hi there, I'm Ahmed Raza</h1>
+  <h3>🚀 Full-Stack Developer | Python Enthusiast | AI & Web3 Explorer</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+Enthusiast;AI+%26+Web3+Explorer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Exploring+AI+%26+Blockchain+Technologies;Crafting+Efficient+Code+Solutions;Open+Source+Contributor+%26+Learner" alt="Typing SVG" />
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Ahmed-Raza0&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+    <a href="https://github.com/Ahmed-Raza0">
+      <img src="https://komarev.com/ghpvc/?username=Ahmed-Raza0&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views"/>
+    </a>
   </p>
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/836HiR6cp2h7u/giphy.gif" width="200" height="200" alt="Coding Animation" />
-</div>
-
-- 💡 I'm a **full-stack developer** focused on building innovative, scalable, and efficient web applications
-- 🔍 Currently learning & experimenting with **AI, Blockchain, and Web 3.0**
-- 👨‍💻 Love contributing to **open-source projects** and collaborative dev communities
-- ⚙️ Skilled in both **front-end** and **back-end** development
-- 🧩 Problem-solver with a deep interest in building smart digital solutions
-
----
-
- 
-
-## 🧰 Tech Stack & Tools
-
-<div align="center">
-
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,redux" height="40" alt="Languages and Frameworks" />
-
-### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,tailwind,vercel" height="40" alt="Tools and Technologies" />
-
-</div>
-
-<div align="center">
-
-### 🚀 Featured Skills
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" />
-      <br>Python
+    <td width="30%">
+      <div align="center">
+        <img src="https://media.giphy.com/media/836HiR6cp2h7u/giphy.gif" width="180" alt="Coding Animation" />
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48" />
-      <br>GitHub
+    <td width="70%">
+      <br />
+      <ul>
+        <li>💻 I'm a <b>Full-Stack Developer</b> passionate about building innovative and scalable web applications.</li>
+        <li>🔍 Currently exploring the frontiers of <b>Artificial Intelligence</b> and <b>Web 3.0</b>.</li>
+        <li>🤝 I thrive in <b>collaborative environments</b> and love contributing to open-source projects.</li>
+        <li>⚙️ Proficient in designing robust <b>backend systems</b> and intuitive <b>frontend interfaces</b>.</li>
+        <li>🧩 A dedicated <b>problem-solver</b> committed to continuous learning and efficient code.</li>
+      </ul>
     </td>
   </tr>
 </table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,react,nextjs,redux,nodejs,express,django,flask&perline=10" alt="Languages & Frameworks" />
+<br>
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb,postgres,mysql,firebase,figma,tailwind,vercel,linux&perline=10" alt="Tools & Cloud" />
+
 </div>
 
 ---
- 
- 
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&hide_border=true" alt="Top Languages" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Raza0&hide_border=true" alt="GitHub Streak" />
-
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Raza0&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Raza0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Raza0&theme=github-light&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Raza0&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+<br>
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Raza0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
 ---
- 
 
 ## 🌐 Connect with Me
 
@@ -108,22 +89,19 @@
 
 <table>
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="150">
       <a href="https://github.com/Ahmed-Raza0" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-        <br>GitHub
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="150">
       <a href="https://linkedin.com/in/ahmed-raza-6918b72b8" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
-        <br>LinkedIn
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="150">
       <a href="mailto:ahed80174@gmail.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Email" />
-        <br>Email
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
     </td>
   </tr>
@@ -133,37 +111,6 @@
 
 ---
 
-## 🤝 Let's Collaborate
-
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBEBRpDLUwpPJ4/giphy.gif" width="100" height="100" alt="Collaboration Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=0,2,25,30" />
 </div>
-
-I'm open to:
-
-<div align="center">
-
-| 🚀 Collaboration | 💼 Projects | 🧠 Events |
-|:---:|:---:|:---:|
-| Open-source & innovative products | Freelance & remote development | Hackathons & code reviews |
-
-</div>
-
----
-
-<div align="center">
-
-### 💰 You can help me by donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
-<p align="center">
-  <b>⭐️ From <a href="https://github.com/Ahmed-Raza0">Ahmed Raza</a></b>
-</p>
