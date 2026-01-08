@@ -43,7 +43,7 @@
 </div>
 
 ---
-
+<!-- 
 ## 📊 Performance & Analytics
 
 <div align="center">
@@ -61,7 +61,7 @@
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Raza0&theme=default&hide_border=true&cache_seconds=3600" alt="Streak" />
-</div>
+</div> -->
 
 ---
 
