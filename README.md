@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 <div align="center">
-  <img src="https://github.com/Ahmed-Raza0/Ahmed-Raza0/blob/main/programmer.gif?raw=true" width="200" height="200" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/836HiR6cp2h7u/giphy.gif" width="200" height="200" alt="Coding Animation" />
 </div>
 
 - 💡 I'm a **full-stack developer** focused on building innovative, scalable, and efficient web applications
@@ -100,7 +100,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -145,7 +145,7 @@
 ## 🤝 Let's Collaborate
 
 <div align="center">
-  <img src="https://github.com/Ahmed-Raza0/Ahmed-Raza0/blob/main/handshake.gif?raw=true" width="100" alt="Collaboration Animation" />
+  <img src="https://media.giphy.com/media/LmNwrBEBRpDLUwpPJ4/giphy.gif" width="100" height="100" alt="Collaboration Animation" />
 </div>
 
 I'm open to:
