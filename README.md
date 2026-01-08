@@ -45,23 +45,23 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48" />
       <br>GitHub
     </td>
   </tr>
@@ -76,15 +76,15 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Raza0&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&bg_color=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Raza0&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ahmed-Raza0&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ahmed-Raza0&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -119,19 +119,19 @@
   <tr>
     <td align="center" width="200">
       <a href="https://github.com/Ahmed-Raza0" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
         <br>GitHub
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://linkedin.com/in/ahmed-raza-6918b72b8" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
         <br>LinkedIn
       </a>
     </td>
     <td align="center" width="200">
       <a href="mailto:ahed80174@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Email" />
         <br>Email
       </a>
     </td>
