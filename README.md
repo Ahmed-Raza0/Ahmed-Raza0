@@ -25,7 +25,7 @@
         <li>🔭 <b>Currently:</b> Working on high-performance Full-Stack projects.</li>
         <li>🌱 <b>Learning:</b> Mastering Advanced Generative AI & Smart Contracts.</li>
         <li>🤝 <b>Collaboration:</b> Open to interesting Open Source and Freelance opportunities.</li>
-        <li>📧 <b>Contact:</b> <a href="mailto:ahed80174@gmail.com">ahed80174@gmail.com</a></li>
+        <li>📧 <b>Contact:</b> <a href="mailto:ahed80174@gmail.com">Gmail</a></li>
       </ul>
     </td>
     <td width="40%" align="center">
