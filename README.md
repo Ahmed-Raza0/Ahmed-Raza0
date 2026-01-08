@@ -47,10 +47,10 @@ Here's a little bit about me:
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/Ahmed-Raza0/Ahmed-Raza0/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Ahmed-Raza0/Ahmed-Raza0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-> **Note:** The snake animation above will appear after the GitHub Action runs successfully on your repository.
+> **Note:** The snake animation above is generated automatically. If it's not visible yet, it means the **GitHub Action** hasn't run for the first time. It will appear automatically after the first successful run (usually within 24 hours) or you can trigger it manually in the "Actions" tab.
 
 ---
 
