@@ -76,15 +76,19 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true" alt="GitHub Stats" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Raza0&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Raza0&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
