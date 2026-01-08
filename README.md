@@ -1,8 +1,5 @@
 <div align="center">
-   <h1>I'm Ahmed </h1>
-   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Apps;Solving+Complex+Problems;Exploring+Blockchain+%26+Web3;Continuous+Learner+%26+Innovator" alt="Typing SVG" />
-  </p>
+   <h1>Ahmed Raza</h1>
 
   <h1>🚀 Full-Stack Developer | Python Enthusiast | AI Explorer</h1>
 
