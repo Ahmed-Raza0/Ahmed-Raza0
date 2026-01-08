@@ -54,30 +54,33 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+  <a href="https://github.com/Ahmed-Raza0">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Ahmed-Raza0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  </a>
 
-<br>
+  <br />
+  <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Raza0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Ahmed-Raza0">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Raza0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 
-<br>
-<br>
+  <br />
+  <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Raza0&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
+  <a href="https://github.com/Ahmed-Raza0">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Raza0&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
+  </a>
 
-<br>
-<br>
+  <br />
+  <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Raza0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <a href="https://github.com/Ahmed-Raza0">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Raza0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  </a>
 
 </div>
 
