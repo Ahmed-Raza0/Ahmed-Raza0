@@ -8,7 +8,7 @@
   </p>
 
   <div>
-    <img src="https://img.shields.io/github/followers/Ahmed-Raza0?label=Followers&style=for-the-badge&color=9333EA&logo=github" alt="Followers" />
+    <!-- <img src="https://img.shields.io/github/followers/Ahmed-Raza0?label=Followers&style=for-the-badge&color=9333EA&logo=github" alt="Followers" /> -->
     <img src="https://komarev.com/ghpvc/?username=Ahmed-Raza0&label=Profile%20Views&color=9333EA&style=for-the-badge" alt="Views" />
   </div>
 </div>
