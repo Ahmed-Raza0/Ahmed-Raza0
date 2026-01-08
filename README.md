@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Ahmed%20Raza&fontSize=70&animation=fadeIn"  alt="Header" />
+   <h1>I'm Ahmed </h1>
+   <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Apps;Solving+Complex+Problems;Exploring+Blockchain+%26+Web3;Continuous+Learner+%26+Innovator" alt="Typing SVG" />
+  </p>
 
   <h1>🚀 Full-Stack Developer | Python Enthusiast | AI Explorer</h1>
 
@@ -41,27 +44,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,django,flask,tailwind,mongodb,mysql,git,docker,vercel,figma&perline=8" />
 </div>
-
----
-<!-- 
-## 📊 Performance & Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=default&hide_border=true&cache_seconds=3600" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=default&hide_border=true&cache_seconds=3600" alt="Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Raza0&theme=default&hide_border=true&cache_seconds=3600" alt="Streak" />
-</div> -->
 
 ---
 
