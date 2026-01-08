@@ -72,35 +72,30 @@
  
  
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&count_private=true&theme=default)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=default)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Raza0&hide_border=true" alt="GitHub Streak" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Raza0&theme=default)
+<br>
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Raza0&theme=flat&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
----
+<br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Raza0&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Raza0&theme=tokyo-night&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Raza0&theme=github-light&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
