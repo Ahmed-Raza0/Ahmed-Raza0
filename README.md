@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -72,7 +72,7 @@
 <br>
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Raza0&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Raza0&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
 
 <br>
 <br>
