@@ -50,28 +50,28 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=transparent&title_color=9333EA&text_color=ffffff&icon_color=9333EA&hide_border=true" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=default&hide_border=true&cache_seconds=3600" alt="Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=transparent&title_color=9333EA&text_color=ffffff&icon_color=9333EA&hide_border=true" alt="Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=default&hide_border=true&cache_seconds=3600" alt="Languages" />
       </td>
     </tr>
   </table>
-  
+
   <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Raza0&theme=transparent&stroke=9333EA&ring=9333EA&fire=9333EA&currStreakNum=ffffff&sideLabels=ffffff&hide_border=true" alt="Streak" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Raza0&theme=default&hide_border=true&cache_seconds=3600" alt="Streak" />
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Graph
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Raza0/Ahmed-Raza0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Raza0&theme=github-light&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <p align="center">
-  <i>The snake above is generated daily based on my commits.</i>
+  <i>This graph shows my coding activity over the past year.</i>
 </p>
 
 ---
