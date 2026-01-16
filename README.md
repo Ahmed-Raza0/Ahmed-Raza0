@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Ahmed Raza</h1>
+   <h1>Ahmed Raz</h1>
 
   <h1>🚀 Full-Stack Developer | Python Enthusiast | AI Explorer</h1>
 
