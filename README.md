@@ -95,20 +95,6 @@ Fun Fact          : I automate the boring stuff so I can focus on the fun stuff
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Hackathon Todo](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Raza0&repo=hackathon-todo&theme=default&hide_border=true&title_color=0F2A4A&icon_color=1A56DB&text_color=1E293B)](https://github.com/Ahmed-Raza0/hackathon-todo)
-&nbsp;
-[![WordWeaver](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Raza0&repo=wordweaver-ai&theme=default&hide_border=true&title_color=0F2A4A&icon_color=1A56DB&text_color=1E293B)](https://github.com/Ahmed-Raza0/wordweaver-ai)
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Raza0&repo=portfolio&theme=default&hide_border=true&title_color=0F2A4A&icon_color=1A56DB&text_color=1E293B)](https://github.com/Ahmed-Raza0/portfolio)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
