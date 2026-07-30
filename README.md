@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=560&lines=🤖+Building+Agentic+AI+Systems;⚡+MCP+%26+LLM+Tooling+Developer;🌐+Full+Stack+%7C+Next.js+%2B+FastAPI+%2B+Python;☁️+Cloud+Native+%7C+Vercel+%7C+Koyeb;🚀+Shipping+Real-World+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=560&lines=%F0%9F%A4%96%20Building%20Agentic%20AI%20Systems;%E2%9A%A1%20MCP%20%26%20LLM%20Tooling%20Developer;%F0%9F%8C%90%20Full%20Stack%20%7C%20Next.js%20%2B%20FastAPI%20%2B%20Python;%E2%98%81%EF%B8%8F%20Cloud%20Native%20%7C%20Vercel%20%7C%20Koyeb;%F0%9F%9A%80%20Shipping%20Real-World%20Solutions" />
 
 <br/><br/>
 
