@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=560&lines=🤖+Building+Agentic+AI+Systems;⚡+MCP+%26+LLM+Tooling+Developer;🌐+Full+Stack+%7C+Next.js+%2B+FastAPI+%2B+Python;☁️+Cloud+Native+%7C+Vercel+%7C+Koyeb;🚀+Shipping+Real-World+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=560&lines=🤖+Building+Agentic+AI+Systems;⚡+MCP+%26+LLM+Tooling+Developer;🌐+Full+Stack+%7C+Next.js+%2B+FastAPI+%2B+Python;☁️+Cloud+Native+%7C+Vercel+%7C+Koyeb;🚀+Shipping+Real-World+Solutions" />
 
 <br/><br/>
 
@@ -99,9 +99,9 @@ Fun Fact          : I automate the boring stuff so I can focus on the fun stuff
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=default&hide_border=true&title_color=0F2A4A&icon_color=1A56DB&text_color=1E293B" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmed-Raza0&show_icons=true&theme=default&hide_border=true&title_color=0F2A4A&icon_color=1A56DB&text_color=1E293B" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=default&hide_border=true&title_color=0F2A4A&text_color=1E293B" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=default&hide_border=true&title_color=0F2A4A&text_color=1E293B" height="165" />
 
 </div>
 
@@ -117,7 +117,7 @@ Fun Fact          : I automate the boring stuff so I can focus on the fun stuff
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Raza0&theme=flat&no-frame=true&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.ryo-ma.vercel.app/?username=Ahmed-Raza0&theme=flat&no-frame=true&column=6&margin-w=8" />
 
 </div>
 
@@ -128,9 +128,9 @@ Fun Fact          : I automate the boring stuff so I can focus on the fun stuff
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ahmed-Raza0/Ahmed-Raza0/blob/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ahmed-Raza0/Ahmed-Raza0/blob/output/snake.svg" />
-  <img src="https://github.com/Ahmed-Raza0/Ahmed-Raza0/blob/output/snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-Raza0/Ahmed-Raza0/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-Raza0/Ahmed-Raza0/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ahmed-Raza0/Ahmed-Raza0/output/snake.svg" alt="Snake animation" />
 </picture>
 
 </div>
