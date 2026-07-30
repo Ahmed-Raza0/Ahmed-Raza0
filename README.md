@@ -176,3 +176,5 @@ Fun Fact          : I automate the boring stuff so I can focus on the fun stuff
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2A4A&height=120&section=footer&text=Building+the+Future%2C+One+Commit+at+a+Time&fontSize=16&fontColor=BFDBFE&fontAlignY=65" width="100%" />
 </div>
+
+<!-- Co-authored contribution -->
