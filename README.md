@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/github/followers/Ahmed-Raza0?label=Followers&style=for-the-badge&color=0F2A4A&logo=github" />
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20Work-2E7D32?style=for-the-badge&logo=checkmarx&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Pull%20Shark-🦈-1A56DB?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -117,7 +119,7 @@ Fun Fact          : I automate the boring stuff so I can focus on the fun stuff
 
 <div align="center">
 
-<img src="https://github-profile-trophy.ryo-ma.vercel.app/?username=Ahmed-Raza0&theme=flat&no-frame=true&column=6&margin-w=8" />
+<img src="https://github-profile-trophies.vercel.app/?username=Ahmed-Raza0&theme=flat&no-frame=true&column=6&margin-w=8" />
 
 </div>
 
