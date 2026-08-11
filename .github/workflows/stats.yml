@@ -1,0 +1,71 @@
+name: Generate GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'   # Every 12 hours
+  workflow_dispatch:           # Manual trigger
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/stats.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Clone github-readme-stats
+        run: git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git /tmp/github-readme-stats
+
+      - name: Install dependencies
+        run: |
+          cd /tmp/github-readme-stats
+          npm install
+
+      - name: Start local server
+        env:
+          PAT_1: ${{ secrets.GH_TOKEN }}
+        run: |
+          cd /tmp/github-readme-stats
+          node express.js &
+          echo "Waiting for server to start..."
+          sleep 15
+
+      - name: Generate SVG cards
+        run: |
+          mkdir -p stats
+
+          # GitHub Stats Card
+          curl -sf --retry 3 --retry-delay 5 \
+            "http://localhost:9000/api?username=Ahmed-Raza0&show_icons=true&theme=default&hide_border=true&title_color=0F2A4A&icon_color=1A56DB&text_color=1E293B&rank_icon=github" \
+            -o stats/stats.svg
+
+          # Top Languages Card
+          curl -sf --retry 3 --retry-delay 5 \
+            "http://localhost:9000/api/top-langs/?username=Ahmed-Raza0&layout=compact&theme=default&hide_border=true&title_color=0F2A4A&text_color=1E293B" \
+            -o stats/top-langs.svg
+
+          echo "✅ Stats cards generated successfully!"
+          ls -la stats/
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📊 Auto-update GitHub stats cards"
+            git push
+          fi
