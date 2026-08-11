@@ -117,7 +117,7 @@ Fun Fact          : I automate the boring stuff so I can focus on the fun stuff
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Raza0&theme=flat&no-frame=true&column=6&margin-w=8" />
+<img src="https://github-trophies.vercel.app/?username=Ahmed-Raza0&theme=flat&no-frame=true&column=6&margin-w=8" />
 
 </div>
 
